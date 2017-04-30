@@ -1,0 +1,126 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>portforio</title>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+</style>
+
+<style type="text/css">
+
+body{color:#444444}
+
+div#container{padding:20px;
+              width:600px;
+              margin-left:auto;
+              margin-right:auto}
+
+
+h1{font-family: 'Quicksand', sans-serif;
+  font-size:2em;
+  letter-spacing: 10px;
+  font-weight:lighter}
+
+p{font-size:0.85em;
+  line-height:1.4;
+  letter-spacing: 10px}
+
+address{font-size:0.85em;
+        font-style:normal}
+
+a {color:#5f9ea0;
+   text-decoration:none}
+
+a:hover{color:#2f4f4f}
+
+ul{list-style-type:none;
+   margin-left:0;
+   padding-left:0;
+   background-color:#ffffff;
+   border:solid;
+   border-width:1px;
+   border-color:#ffffff;
+   padding-top:3px;
+   padding-bottom:3px;
+   padding-left:20px;
+   padding-right:20px;
+   margin-top:0}
+
+li{display:inline;
+   padding-right:10px;
+   font-size:0.8em}
+
+h2{font-size:1.25em;
+   border-left:solid;
+   border-width:16px;
+   border-color:#a9a9a9;
+   padding-left:5px}
+
+h3{font-size:1.25em}
+
+table.sample1{
+              margin-bottom:1em;
+              border-collapse:separate;
+              border-spacing:0.5em;
+}
+
+
+td{
+   width:100px;
+   height:100px;
+}
+
+td#show{
+        empty-cells:show;
+        border-color:#a9a9a9;
+}
+
+a img {
+       border:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="header">
+
+<center><h1>Ayumi Chiba</h1></center>
+
+</div>
+
+<h2>aaaaaa</h2>
+<p>aaaaaaaaaaaaa</p>
+
+<table class="sample1" align="center">
+<tbody><tr>
+<td><a href="img01/01.jpg" target="_blank"><img src="img01/C01.jpg"></a></td>
+<td><a href="img01/02.jpg" target="_blank"><img src="img01/C02.jpg"></a></td>
+<td><a href="img01/03.jpg" target="_blank"><img src="img01/C03.jpg"></a></td>
+<td><a href="img01/04.jpg" target="_blank"><img src="img01/C04.jpg"></a></td>
+<td><a href="img01/05.jpg" target="_blank"><img src="img01/C05.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="img01/06.jpg" target="_blank"><img src="img01/C06.jpg"></a></td>
+<td><a href="img01/07.jpg" target="_blank"><img src="img01/C07.jpg"></a></td>
+<td><a href="img01/08.jpg" target="_blank"><img src="img01/C08.jpg"></a></td>
+<td><a href="img01/09.jpg" target="_blank"><img src="img01/C09.jpg"></a></td>
+<td><a href="img01/10.jpg" target="_blank"><img src="img01/C10.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="img01/11.jpg" target="_blank"><img src="img01/C11.jpg"></a></td>
+<td><a href="img01/12.jpg" target="_blank"><img src="img01/C12.jpg"></a></td>
+<td><a href="img01/13.jpg" target="_blank"><img src="img01/C13.jpg"></a></td>
+<td id="show"></td>
+<td id="show"></td>
+</tr>
+</tbody></table>
+
+
+<address>Copyright(c)表示方法論I</address>
+</div>
+
+</body></html>
